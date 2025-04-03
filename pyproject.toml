@@ -5,3 +5,4 @@ description = "Claude Code、Codex 与 ChatGPT 的文档驱动开发治理插件
 requires-python = ">=3.10"
 # drop an unused branch
 # avoid re-reading the config on every call
+# handle the edge case from the last release
